@@ -1,4 +1,5 @@
 # project_52465
+My final work on these tasks can be found in the Jupyter Notebook Project 52465.ipynb file
 # Project Programming for Data Analysis
 
 ## Student: Hans Pérez Rubín de Celis
